@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Dylan Sears is a PhD student in sociology at Kansas State University, and is hoping to complete his dissertation within the coming year. He has taught intro to sociology and youth and crime at Kansas State University and his ongoing research projects include an analysis of Kyle Rittenhouse's rising celebrity as well as an exploration of the ongoing gentrification of Tulsa, Oklahoma's Greenwood district, also known as Black Wall Street.
+Dylan Sears is a PhD candidate in sociology/criminology at Kansas State University, and is currently working on his dissertation. He has taught intro to sociology and youth and crime at Kansas State University and his ongoing research projects include an analysis of Kyle Rittenhouse's rising celebrity as well as an exploration of the ongoing gentrification of Tulsa, Oklahoma's Greenwood district, also known as Black Wall Street.
 
 ## Research Interests
 
@@ -34,4 +34,23 @@ Dylan Sears is a PhD student in sociology at Kansas State University, and is hop
 - “Violent Revitalization: Specters of Dark Tourism in Tulsa’s Greenwood”
 
 - “Good Kid, Mad City: on the Political Meaning of Kyle Rittenhouse”
+
+## Teaching Experience
+
+### As Instructor:
+- **Fall 2024:** SOCIO 211 Intro to Sociology								  
+- **Summer 2024:** SOCIO 211 Intro to Sociology								 
+- **Spring 2024:** SOCIO 211 Intro to Sociology								   
+- **Fall 2023:** SOCIO 211 Intro to Sociology								        
+- **Spring 2023:** SOCIO 211 Intro to Sociology								   
+- **Fall 2022:** CRIM 460 Youth and Crime									        
+
+### As Teaching Assistant:
+- **Spring 2022:** Social Research Methods with Dr. Corina Medley						    
+- **Fall 2021:** Comparative Social Theories with Dr. Gerad Middendorf					        
+- Guest Lecture: Theodor Adorno and the Culture Industry
+- **Fall 2021:** Urban Sociology with Dr. Frank Weyher							        
+- **Spring 2021:** Intro to Sociology with Dr. Corina Medley							    
+- **Fall 2020:** Intro to Sociology with Dr. Jeremy Briggs							        
+
 
