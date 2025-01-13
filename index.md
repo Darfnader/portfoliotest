@@ -48,7 +48,7 @@ Dylan Sears is a PhD candidate in sociology/criminology at Kansas State Universi
 ### As Teaching Assistant:
 - **Spring 2022:** Social Research Methods with Dr. Corina Medley						    
 - **Fall 2021:** Comparative Social Theories with Dr. Gerad Middendorf					        
-- Guest Lecture: Theodor Adorno and the Culture Industry
+    -  Guest Lecture: Theodor Adorno and the Culture Industry
 - **Fall 2021:** Urban Sociology with Dr. Frank Weyher							        
 - **Spring 2021:** Intro to Sociology with Dr. Corina Medley							    
 - **Fall 2020:** Intro to Sociology with Dr. Jeremy Briggs							        
