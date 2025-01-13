@@ -34,6 +34,8 @@ Dylan Sears is a PhD student in sociology at Kansas State University, and is hop
 
 - “Good Kid, Mad City: on the Political Meaning of Kyle Rittenhouse”
 
+{% include_relative _includes/teaching-statement.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
