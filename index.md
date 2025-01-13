@@ -4,19 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Dylan Sears is a PhD student in sociology at Kansas State University, and is hoping to complete his dissertation within the coming year. He has taught intro to sociology and youth and crime at Kansas State University and his ongoing research projects include an analysis of Kyle Rittenhouse's rising celebrity as well as an exploration of the ongoing gentrification of Tulsa, Oklahoma's Greenwood district, also known as Black Wall Street.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Race & Ethnicity:** Racial inequality in the United States, Whiteness in the United States, the rising tide of "laymen's physiognomy" on social media platforms.
+- **Historical Comparative Methodology** Combining the use of primary and secondary historical sources alongside sociologically-informed ethnographic and textual analysis to better capture the present conjuncture.
+- **Cultural Criminology** An interest in not only the causes and consequences of crime and deviant activity, but the contested meaning present within those behaviors and labels as well.
 
-## News
+## Updates
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[November 2024]** Presented "Violent Revitalization: Specters of Dark Tourism in Tulsa's Greenwood" at American Society of Criminology Conference in San Francisco, CA.
+- **[Fall 2024]** Won American Society of Criminology, Division of Critical Criminology and Social Justice Graduate Student Paper Award for "Good Kid, Mad City: On the Political Meaning of Kyle Rittenhouse."
+- **[Early 2024]** Completed essya/chapter submission for "50 Facts Everyone Should Know About Police" for Bristol University Press.
+- **[Early 2024]** Completed work with Dr. Travis Linnemann on Oxford Encyclopedia of Critical and Cultural Criminology entry on Cultural Criminology.
+- **[November 2023]** Presented "Good Kid, Mad City: On the Political Meaning of Kyle Rittenhouse" at American Society of Criminology Conference in Philadelphia, PA.
 
 {% include_relative _includes/publications.md %}
 
