@@ -16,6 +16,7 @@ Dylan Sears is a PhD student in sociology at Kansas State University, and is hop
 
 - **[November 2024]** Presented "Violent Revitalization: Specters of Dark Tourism in Tulsa's Greenwood" at American Society of Criminology Conference in San Francisco, CA.
 - **[Fall 2024]** Won American Society of Criminology, Division of Critical Criminology and Social Justice Graduate Student Paper Award for "Good Kid, Mad City: On the Political Meaning of Kyle Rittenhouse."
+- **[August 2024]** Passed second preliminary sociology doctoral exam and advanced to Ph.D. Candidacy.
 - **[Early 2024]** Completed essay/chapter submission for "50 Facts Everyone Should Know About Police" for Bristol University Press.
 - **[Early 2024]** Completed work with Dr. Travis Linnemann on Oxford Encyclopedia of Critical and Cultural Criminology entry on Cultural Criminology.
 - **[November 2023]** Presented "Good Kid, Mad City: On the Political Meaning of Kyle Rittenhouse" at American Society of Criminology Conference in Philadelphia, PA.
