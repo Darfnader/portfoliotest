@@ -24,7 +24,15 @@ Dylan Sears is a PhD student in sociology at Kansas State University, and is hop
 
 ### Accepted
 
+- Sears, D. (2024). “The Police Have Often Attempted to Pre-empt Cases of Political and Religious Violence 	Through Covert Intelligence.” In M. Hart, J. B. Lamb, A. Lynes, J. Treadwell, & C. Kelly (Eds.), *50 Facts Everyone Should Know About the Police.* Bristol University Press.
+
+- Linnemann, T. and Sears, D. (2024). “Cultural Criminology.” In K. D. Haggerty & L. Presser (Eds.), *The Oxford Handbook of Critical and Cultural Criminological Theory.* Oxford University Press.
+
 ### Forthcoming/In-Progress
+
+- “Violent Revitalization: Specters of Dark Tourism in Tulsa’s Greenwood”
+
+- “Good Kid, Mad City: on the Political Meaning of Kyle Rittenhouse”
 
 {% include_relative _includes/publications.md %}
 
