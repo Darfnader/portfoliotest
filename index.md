@@ -9,7 +9,7 @@ Dylan Sears is a PhD candidate in sociology/criminology at Kansas State Universi
 ## Research Interests
 
 - **Race & Ethnicity:** Racial inequality in the United States, Whiteness in the United States, the rising tide of "laymen's physiognomy" on social media platforms.
-- **Historical Comparative Methodology:** Combining the use of primary and secondary historical sources alongside sociologically-informed ethnographic and textual analysis to better capture the present conjuncture.
+- **Comparative-Historical Methods:** Combining the use of primary and secondary historical sources alongside sociologically-informed ethnographic and textual analysis to better capture the present conjuncture.
 - **Cultural Criminology:** An interest in not only the causes and consequences of crime and deviant activity, but the contested meaning present within those behaviors and labels as well.
 
 ## Updates
@@ -48,7 +48,7 @@ Dylan Sears is a PhD candidate in sociology/criminology at Kansas State Universi
 ### As Teaching Assistant:
 - **Spring 2022:** Social Research Methods with Dr. Corina Medley						    
 - **Fall 2021:** Comparative Social Theories with Dr. Gerad Middendorf					        
-    -  Guest Lecture: Theodor Adorno and the Culture Industry
+- Guest Lecture: Theodor Adorno and the Culture Industry
 - **Fall 2021:** Urban Sociology with Dr. Frank Weyher							        
 - **Spring 2021:** Intro to Sociology with Dr. Corina Medley							    
 - **Fall 2020:** Intro to Sociology with Dr. Jeremy Briggs							        
