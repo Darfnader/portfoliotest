@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-Dylan Sears is a PhD candidate in sociology/criminology at Kansas State University, and is currently working on his dissertation. He has taught intro to sociology and youth and crime at Kansas State University and his ongoing research projects include an analysis of Kyle Rittenhouse's rising celebrity as well as an exploration of the ongoing gentrification of Tulsa, Oklahoma's Greenwood district, also known as Black Wall Street.
+Dylan Sears is a Ph.D. candidate in sociology/criminology at Kansas State University, and is currently working on his dissertation. He has taught intro to sociology and youth and crime at Kansas State University and his ongoing research projects include an analysis of Kyle Rittenhouse's rising celebrity as well as an exploration of the ongoing gentrification of Tulsa, Oklahoma's Greenwood district, also known as Black Wall Street through the lens of dark tourism and hauntology. His dissertation aims to explore the gentrification of Tulsa's Greenwood in relation to the broader city of Tulsa and the various institutions involved.
 
 ## Research Interests
 
-- **Race & Ethnicity:** Racial inequality in the United States, Whiteness in the United States, the rising tide of "laymen's physiognomy" on social media platforms.
+- **Race & Ethnicity:** Racial inequality in the United States, Whiteness in the United States, the rising tide of "laymen's physiognomy" on social media platforms, particularly X (formerly twitter).
 - **Comparative-Historical Methods:** Combining the use of primary and secondary historical sources alongside sociologically-informed ethnographic and textual analysis to better capture the present conjuncture.
 - **Cultural Criminology:** An interest in not only the causes and consequences of crime and deviant activity, but the contested meaning present within those behaviors and labels as well.
 
