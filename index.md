@@ -20,6 +20,12 @@ Dylan Sears is a PhD student in sociology at Kansas State University, and is hop
 - **[Early 2024]** Completed work with Dr. Travis Linnemann on Oxford Encyclopedia of Critical and Cultural Criminology entry on Cultural Criminology.
 - **[November 2023]** Presented "Good Kid, Mad City: On the Political Meaning of Kyle Rittenhouse" at American Society of Criminology Conference in Philadelphia, PA.
 
+## Publications
+
+### Accepted
+
+### Forthcoming/In-Progress
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
