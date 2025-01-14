@@ -8,7 +8,7 @@ Dylan Sears is a Ph.D. candidate in sociology/criminology at Kansas State Univer
 
 ## Research Interests
 
-- **Race & Ethnicity:** Racial inequality in the United States, Whiteness in the United States, the rising tide of "laymen's physiognomy" on social media platforms, particularly X (formerly twitter).
+- **Race & Ethnicity:** Racial inequality in the United States, Whiteness in the United States, the rising tide of "layman's physiognomy" on social media platforms, particularly X (formerly twitter).
 - **Comparative-Historical Methods:** Combining the use of primary and secondary historical sources alongside sociologically-informed ethnographic and textual analysis to better capture the present conjuncture.
 - **Cultural Criminology:** An interest in not only the causes and consequences of crime and deviant activity, but the contested meaning present within those behaviors and labels as well.
 
